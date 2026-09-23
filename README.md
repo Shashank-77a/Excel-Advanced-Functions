@@ -5,8 +5,6 @@ Practical implementation of advanced Excel functions—covering multi-criteria l
 
 A brief 2–3 sentence summary of the dataset (Ex. retail banking transaction records, CSAT scores, and sales rep performance).
 
-# Key Capabilities Demonstrated:
-
 # Lookup Architectures:
 
 1.Exact match retrieval (VLOOKUP, HLOOKUP),<br>
